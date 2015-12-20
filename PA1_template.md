@@ -101,7 +101,7 @@ To calcualte mean and median of new data frame where NAs are replaced
 Mean.Steps.InDay.Mod=mean(Steps.Day.Summary.Mod$Total.Steps.InDay.Mod)
 Median.Steps.InDay.Mod=median(Steps.Day.Summary.Mod$Total.Steps.InDay.Mod)
 ```
-After replacing NAs the average (mean) number of steps per day is 1.0766189 &times; 10<sup>4</sup> (1.0766189 &times; 10<sup>4</sup> when NAs are discarded) and Median steps per day is 1.0766189 &times; 10<sup>4</sup> (10765 when NAs are discarded). We see that there is no much change in mean value where is the median changed by approximately 4 steps.
+After replacing NAs the average (mean) number of steps per day is 1.0766189 &times; 10<sup>4</sup> (1.0766189 &times; 10<sup>4</sup> when NAs are discarded) and Median steps per day is 1.0766189 &times; 10<sup>4</sup> (10765 when NAs are discarded). We see that there is no much change in mean value where as the median changed.
 
 ## Weekday and Weekend statistics
 
